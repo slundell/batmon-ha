@@ -3,8 +3,8 @@
 #git+https://github.com/jpeters-ml/bleak@ed0b1c1
 git+https://github.com/jpeters-ml/bleak@feature/windowsPairing
 
-# bleak==0.20.2 # (installed with install_bleak.py)
-
+bleak==0.20.2 # (installed with install_bleak.py)
+influxdb
 paho-mqtt>=2.0.0
 backoff
 crcmod
